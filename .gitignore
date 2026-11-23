@@ -1,0 +1,12 @@
+.venv/
+.env
+__pycache__/
+uploaded_videos/
+*.pt
+data/
+data/videos/
+data/index/
+aihubshell
+filelist_597.txt
+AI/eval/splits.json
+AI/eval/results/
